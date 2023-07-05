@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: dcb4ca3ede2891f468d007f26bfdbb29
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5947419361856742129
+    second: IK Target|IK Target.002Action.001
+  - first:
+      74: -4683699953786023585
+    second: IK Target|IK Target.003Action.001
+  - first:
+      74: 8334938311902317310
+    second: IK Target|IK Target.004Action
+  - first:
+      74: -4601253034277571215
+    second: IK Target|IK Target.005Action.001
+  - first:
+      74: -4124473633045377738
+    second: IK Target|IK TargetAction.001
+  - first:
+      74: -926888962766439120
+    second: IK Target|IK TargetAction.002
+  - first:
+      74: -7906007861612664558
+    second: IK Target.001|IK Target.002Action.001
+  - first:
+      74: 631881596989904143
+    second: IK Target.001|IK Target.003Action.001
+  - first:
+      74: -5968478700197993413
+    second: IK Target.001|IK Target.004Action
+  - first:
+      74: 1156542080740517741
+    second: IK Target.001|IK Target.005Action.001
+  - first:
+      74: 5348053225168103713
+    second: IK Target.001|IK TargetAction.001
+  - first:
+      74: 519922143025573431
+    second: IK Target.001|IK TargetAction.002
+  - first:
+      74: -2072830619151107050
+    second: IK Target.002|IK Target.002Action.001
+  - first:
+      74: 6508254953177782631
+    second: IK Target.002|IK Target.003Action.001
+  - first:
+      74: 8590304430868333426
+    second: IK Target.002|IK Target.004Action
+  - first:
+      74: 6410013023090742349
+    second: IK Target.002|IK Target.005Action.001
+  - first:
+      74: -1311565352370204837
+    second: IK Target.002|IK TargetAction.001
+  - first:
+      74: 6967271902984682660
+    second: IK Target.002|IK TargetAction.002
+  - first:
+      74: 7258885798673777813
+    second: IK Target.003|IK Target.002Action.001
+  - first:
+      74: 6881272892079384107
+    second: IK Target.003|IK Target.003Action.001
+  - first:
+      74: -2431906395606946857
+    second: IK Target.003|IK Target.004Action
+  - first:
+      74: 309599896818154293
+    second: IK Target.003|IK Target.005Action.001
+  - first:
+      74: 1291684675123157509
+    second: IK Target.003|IK TargetAction.001
+  - first:
+      74: 8413236803656685416
+    second: IK Target.003|IK TargetAction.002
+  - first:
+      74: 2226667568256723218
+    second: IK Target.004|IK Target.002Action.001
+  - first:
+      74: -854150858853059734
+    second: IK Target.004|IK Target.003Action.001
+  - first:
+      74: -3464267150374855283
+    second: IK Target.004|IK Target.004Action
+  - first:
+      74: 8198305822691961288
+    second: IK Target.004|IK Target.005Action.001
+  - first:
+      74: -236985700973382176
+    second: IK Target.004|IK TargetAction.001
+  - first:
+      74: 6002618070205849447
+    second: IK Target.004|IK TargetAction.002
+  - first:
+      74: -385712027349293280
+    second: IK Target.005|IK Target.002Action.001
+  - first:
+      74: -2639610346414000689
+    second: IK Target.005|IK Target.003Action.001
+  - first:
+      74: 7053119779249790608
+    second: IK Target.005|IK Target.004Action
+  - first:
+      74: 5328246960293276609
+    second: IK Target.005|IK Target.005Action.001
+  - first:
+      74: -1614202959068163956
+    second: IK Target.005|IK TargetAction.001
+  - first:
+      74: 4653942628237659191
+    second: IK Target.005|IK TargetAction.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
